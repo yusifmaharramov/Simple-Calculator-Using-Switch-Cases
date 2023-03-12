@@ -1,0 +1,1 @@
+This program is used to make arithmetic calculations of 2 numbers for example addition, subtraction, multiplication, and division. I've used switch case expressions to build the program. It's a very simple program and it's for beginners.
